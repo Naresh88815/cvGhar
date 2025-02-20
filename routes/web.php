@@ -23,7 +23,7 @@ Route::middleware('auth')->group(function () {
 
 // Public Routes
 Route::get('/', function () {
-    return view('layouts.home'); // Corrected view reference
+    return view('layouts.register'); // Corrected view reference
 });
 
 // Show Home Page

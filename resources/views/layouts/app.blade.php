@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@yield('title', 'Jyotish')</title>
+    <title>@yield('title', 'Cvghar')</title>
     <link rel="stylesheet" href="{{ asset('css/landingpage.css') }}">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <!-- CSS -->
